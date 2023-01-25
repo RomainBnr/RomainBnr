@@ -24,7 +24,7 @@ I am 18 years old and I am currently in BTS SIO, option slam.<br/>
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
-## Me Contacter
+## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-roro.bonnier@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roro.bonnier@gmail.com)](mailto:roro.bonnier@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-RomainBonnier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romain-bonnier-3170a1259/)](https://www.linkedin.com/in/romain-bonnier-3170a1259/)
 
