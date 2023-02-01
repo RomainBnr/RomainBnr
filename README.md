@@ -25,7 +25,7 @@ I am 18 years old and I am currently in BTS SIO, option slam.<br/>
 
 ## Skills
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RomainBnr&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RomainBnr&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBnr&hide=TeX&layout=compact&theme=transparent)
 
 ## Contact Me
