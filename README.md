@@ -23,6 +23,9 @@ I am 18 years old and I am currently in BTS SIO, option slam.<br/>
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
+![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/RomainBnr/RomainBnr/assets/118251884/8af60727-111a-4e80-8060-4f690ccbefd7)
+
+
 ## Skills
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RomainBnr&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
