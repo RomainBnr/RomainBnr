@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27538D&lines=Hello+!+Im+Romain.;)](https://git.io/typing-svg)
 
 ## Status
-I am 18 years old and I am currently in BTS SIO, option slam.<br/>
+I am 20 years old and I am currently in bachelor's CPLR (Software and network project manager).<br/>
 
 ## Technologies
  
